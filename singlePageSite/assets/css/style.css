@@ -1,0 +1,18 @@
+html{
+	font-family: 'Lora', serif;
+}
+
+#about{
+	min-height: 1000px;
+	padding-top: 60px;
+}
+
+#home{
+	padding-top: 60px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 100vh;
+	background: url('../images/background.jpg') no-repeat center center fixed;
+}
